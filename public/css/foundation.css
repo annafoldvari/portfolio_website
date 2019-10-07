@@ -2382,7 +2382,7 @@ kbd {
   color: #8a8a8a; }
 
 .lead {
-  font-size: 125%;
+  font-size: 200%;
   line-height: 1.6; }
 
 .stat {
@@ -5002,7 +5002,7 @@ a.thumbnail {
 
 .title-bar {
   padding: 0.5rem;
-  background: #0a0a0a;
+  background: #003151;
   color: #fefefe;
   display: -ms-flexbox;
   display: flex;
@@ -5803,3 +5803,8 @@ a.thumbnail {
 
 .long-delay {
   animation-delay: 700ms !important; }
+
+div.errorimage {
+  margin-top: 60px; 
+  margin-bottom: 40px;
+}
