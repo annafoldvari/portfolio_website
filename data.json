@@ -1,0 +1,88 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "Treehouse Techdegree Project 1. Generates random quotes while changing background colour.",
+            "technologies": ["HTML", "CSS", "JavaScipt"],
+            "live_link": "https://annafoldvari.github.io/random_quote_generator/",
+            "github_link": "https://github.com/annafoldvari/random_quote_generator",
+            "image_urls": [
+                "../static/images/project1/image1.png",
+                "../static/images/project1/image2.png",
+                "../static/images/project1/image3.png",
+                "../static/images/project1/image4.png"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "Pagination and Filtering",
+            "description": "Shows a number of students with paginations. It is also possible to search amongst the students.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://annafoldvari.github.io/pagination_and_filtering/",
+            "github_link": "https://github.com/annafoldvari/pagination_and_filtering",
+            "image_urls": [
+                "../static/images/project2/image1.png",
+                "../static/images/project2/image2.png",
+                "../static/images/project2/image3.png",
+                "../static/images/project2/image4.png"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "An interactive form for a conference with validation.",
+            "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+            "live_link": "https://annafoldvari.github.io/interactive_form/",
+            "github_link": "https://github.com/annafoldvari/interactive_form",
+            "image_urls": [
+                "../static/images/project3/image1.png",
+                "../static/images/project3/image2.png",
+                "../static/images/project3/image3.png",
+                "../static/images/project3/image4.png"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "Phrase Hunter",
+            "description": "A phrase guessing game built using object oriented programming",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://annafoldvari.github.io/oop_game/",
+            "github_link": "https://github.com/annafoldvari/oop_game",
+            "image_urls": [
+                "../static/images/project4/image1.png",
+                "../static/images/project4/image2.png",
+                "../static/images/project4/image3.png",
+                "../static/images/project4/image4.png"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API request",
+            "description": "The employee directory of a fictional company that consists of employees generated from Random User Generator. There is also a search functionality.",
+            "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+            "live_link": "https://annafoldvari.github.io/public_api_request/",
+            "github_link": "https://github.com/annafoldvari/public_api_request",
+            "image_urls": [
+                "../static/images/project5/image1.png",
+                "../static/images/project5/image2.png",
+                "../static/images/project5/image3.png",
+                "../static/images/project5/image4.png"
+            ]
+        },
+        {
+            "id": 5,
+            "project_name": "Riverford Data Visualisation",
+            "description": "Data visulation of sold products of Riverford Farm",
+            "technologies": ["HTML", "CSS", "Javascript", "Chart.js" ],
+            "live_link": "https://annafoldvari.github.io/RiverfordVisualisation/",
+            "github_link": "https://github.com/annafoldvari/RiverfordVisualisation",
+            "image_urls": [
+                "../static/images/project6/image1.png",
+                "../static/images/project6/image2.png",
+                "../static/images/project6/image3.png",
+                "../static/images/project6/image4.png"
+            ]
+        }
+    ]
+}
