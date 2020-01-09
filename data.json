@@ -83,6 +83,20 @@
                 "../static/images/project6/image3.png",
                 "../static/images/project6/image4.png"
             ]
-        }
+        },
+        {
+          "id": 6,
+          "project_name": "React Gallery App",
+          "description": "An image search application using Flickr's API",
+          "technologies": ["HTML", "CSS", "Javascript", "React" ],
+          "live_link": "http://galleryapp.annafoldvari.co.uk/",
+          "github_link": "https://github.com/annafoldvari/React_Gallery_App",
+          "image_urls": [
+              "../static/images/project7/image1.png",
+              "../static/images/project7/image2.png",
+              "../static/images/project7/image3.png",
+              "../static/images/project7/image4.png"
+          ]
+      }
     ]
 }
