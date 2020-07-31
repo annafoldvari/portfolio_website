@@ -22,8 +22,8 @@ block content
           each technology in technologies
             li #{technology}
 
-        
-        a.button.expanded(href=`${live_link}` target="_blank") Live Demo
+        if live_link  
+          a.button.expanded(href=`${live_link}` target="_blank") Live Demo
         a.button.expanded(href=`${github_link}` target="_blank") GitHub Repo
     
     
