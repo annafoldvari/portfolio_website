@@ -18,6 +18,11 @@ app.get('/about', (req, res) => {
 
 });
 
+app.get('/blog', (req, res) => {
+  res.render('blog');
+
+});
+
 app.get('/project/:id', (req, res) => {
     const id = parseInt(req.params.id);
 
