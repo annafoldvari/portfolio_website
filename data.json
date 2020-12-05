@@ -2,11 +2,11 @@
   "projects": [
     {
       "id": 0,
-      "project_name": "Random Quote Generator",
-      "description": "Treehouse Techdegree Project 1. Generates random quotes while changing background colour.",
-      "technologies": ["HTML", "CSS", "JavaScipt"],
-      "live_link": "https://annafoldvari.github.io/random_quote_generator/",
-      "github_link": "https://github.com/annafoldvari/random_quote_generator",
+      "project_name": "PHP Random Quote Generator",
+      "description": "Generates random quotes while changing background colour.",
+      "technologies": ["HTML", "CSS", "PHP"],
+      "live_link": "http://quotes.annafoldvari.co.uk",
+      "github_link": "https://github.com/annafoldvari/php_project_1_random_quote_generator",
       "image_urls": [
         "../static/images/project1/image1.png",
         "../static/images/project1/image2.png",
@@ -16,11 +16,11 @@
     },
     {
       "id": 1,
-      "project_name": "Pagination and Filtering",
-      "description": "Shows a number of students with paginations. It is also possible to search amongst the students.",
-      "technologies": ["HTML", "CSS", "JavaScript"],
-      "live_link": "https://annafoldvari.github.io/pagination_and_filtering/",
-      "github_link": "https://github.com/annafoldvari/pagination_and_filtering",
+      "project_name": "PHP Quiz App",
+      "description": "A quiz app with randomly generated addition questions.",
+      "technologies": ["HTML", "CSS", "PHP"],
+      "live_link": "http://quizapp.annafoldvari.co.uk",
+      "github_link": "https://github.com/annafoldvari/php_quiz_app",
       "image_urls": [
         "../static/images/project2/image1.png",
         "../static/images/project2/image2.png",
@@ -96,6 +96,20 @@
         "../static/images/project7/image2.png",
         "../static/images/project7/image3.png",
         "../static/images/project7/image4.png"
+      ]
+    },
+    {
+      "id": 7,
+      "project_name": "PHP Learning Journal",
+      "description": "An application where you can create, edit and delete learning entries.",
+      "technologies": ["HTML", "CSS", "PHP", "SQLite"],
+      "live_link": "http://learning.annafoldvari.co.uk",
+      "github_link": "https://github.com/annafoldvari/php_learning_journal",
+      "image_urls": [
+        "../static/images/project8/image1.png",
+        "../static/images/project8/image2.png",
+        "../static/images/project8/image3.png",
+        "../static/images/project8/image4.png"
       ]
     }
   ]
