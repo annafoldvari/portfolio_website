@@ -5,7 +5,7 @@
       "project_name": "PHP Random Quote Generator",
       "description": "Generates random quotes while changing background colour.",
       "technologies": ["HTML", "CSS", "PHP"],
-      "live_link": "http://quotes.annafoldvari.co.uk",
+      "live_link": "http://quotes.makingtheweb.co.uk",
       "github_link": "https://github.com/annafoldvari/php_project_1_random_quote_generator",
       "image_urls": [
         "../static/images/project1/image1.png",
@@ -19,7 +19,7 @@
       "project_name": "PHP Quiz App",
       "description": "A quiz app with randomly generated addition questions.",
       "technologies": ["HTML", "CSS", "PHP"],
-      "live_link": "http://quizapp.annafoldvari.co.uk",
+      "live_link": "http://quizapp.makingtheweb.co.uk",
       "github_link": "https://github.com/annafoldvari/php_quiz_app",
       "image_urls": [
         "../static/images/project2/image1.png",
@@ -89,7 +89,7 @@
       "project_name": "React Gallery App",
       "description": "An image search application using Flickr's API",
       "technologies": ["HTML", "CSS", "Javascript", "React"],
-      "live_link": "http://galleryapp.annafoldvari.co.uk/",
+      "live_link": "http://galleryapp.makingtheweb.co.uk/",
       "github_link": "https://github.com/annafoldvari/React_Gallery_App",
       "image_urls": [
         "../static/images/project7/image1.png",
@@ -103,7 +103,7 @@
       "project_name": "PHP Learning Journal",
       "description": "An application where you can create, edit and delete learning entries.",
       "technologies": ["HTML", "CSS", "PHP", "SQLite"],
-      "live_link": "http://learning.annafoldvari.co.uk",
+      "live_link": "http://learning.makingtheweb.co.uk",
       "github_link": "https://github.com/annafoldvari/php_learning_journal",
       "image_urls": [
         "../static/images/project8/image1.png",
