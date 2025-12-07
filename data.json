@@ -30,11 +30,11 @@
     },
     {
       "id": 2,
-      "project_name": "Shopping List Mobile App",
-      "description": "An Android and iOS shopping list mobile app.",
-      "technologies": ["JavaScript", "React Native"],
-      "live_link": "",
-      "github_link": "https://github.com/annafoldvari/ShoppingList",
+      "project_name": "Flash cards learning app.",
+      "description": "A learning app to study with flashcards.",
+      "technologies": ["JavaScript", "React", "Firebase", "CSS"],
+      "live_link": "https://flashcard1103.web.app/signup",
+      "github_link": "",
       "image_urls": [
         "../static/images/project3/image1.png",
         "../static/images/project3/image2.png",
